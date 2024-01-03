@@ -1,4 +1,0 @@
-+ /kaniko/executor --dockerfile=./Dockerfile --context=dir:///workspace --digest-file=/kaniko/digest-file --no-push
-.
-..
-a.patch
